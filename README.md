@@ -4,13 +4,19 @@
 
 # >Contoh masukkan
 
-Masukkan while untuk memasukkan data secara berulang , kemudian masukkan input()
+Masukkan while untuk memasukkan data secara berulang , masukkan input() dan gunakan .append() untuk menambahkan elemen ke list
 
-![Screenshot (95)](https://user-images.githubusercontent.com/115516617/202653371-f6c27042-7b04-47ce-93f5-1a43653f96fd.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/115516617/202657499-e6840192-c464-46b8-98ed-33fdb881e780.png)
 
-Masukkan .append() untuk menambahkan elemen ke list
+untuk menjadikan 't' menjadi stop gunakan :
 
+![Screenshot (105)](https://user-images.githubusercontent.com/115516617/202658102-3932758e-41dc-407b-8448-6b7af1b6a242.png)
 
+lalu tampilkan elemen-elemennya
+
+![Screenshot (106)](https://user-images.githubusercontent.com/115516617/202658524-8cca78ed-547e-47e0-b02f-04cf4547ade1.png)
+
+![Screenshot (99)](https://user-images.githubusercontent.com/115516617/202658599-e43ad8bf-e067-4f35-984f-a6fc2f1c74c9.png)
 
 # >Hasil masukkan
 
