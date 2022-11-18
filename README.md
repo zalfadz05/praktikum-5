@@ -2,7 +2,7 @@
 # Nim : 312210320
 # Kelas : TI.22.A3
 
-# Contoh masukkan
+# >Contoh masukkan
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/115516617/202632820-aba25490-9546-45d3-bf9f-0aa6effaf9b3.png)
 
