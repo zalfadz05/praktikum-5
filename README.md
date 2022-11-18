@@ -16,5 +16,5 @@
 
 # >Hasil Flowchart
 
-
+![Screenshot (101)](https://user-images.githubusercontent.com/115516617/202639337-256d1e62-3489-4402-a48c-ce6179e45c10.png)
 
