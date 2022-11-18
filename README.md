@@ -4,6 +4,8 @@
 
 # >Contoh masukkan
 
+Masukkan while untuk memasukkan data secara berulang , kemudian masukkan input()
+
 ![Screenshot (97)](https://user-images.githubusercontent.com/115516617/202632820-aba25490-9546-45d3-bf9f-0aa6effaf9b3.png)
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/115516617/202633000-3716a8b4-deb2-42ad-94ec-06ac332fb8c3.png)
